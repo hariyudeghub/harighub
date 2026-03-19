@@ -1,4 +1,4 @@
-<h1 align="center">Hari K</h1>
+<h1 align="center">Harikrishna S</h1>
 
 <p align="center">
 🎓 B.Tech — Electrical & Computer Engineering <br>
